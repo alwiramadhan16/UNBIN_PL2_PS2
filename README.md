@@ -2,8 +2,8 @@
 
 # Tugas Bahasa Pemrograman 3
 
-NPM: 14197054
+NPM: 14197071
 <br></br>
-Nama: Muhamad Sahal
+Nama: Alwi Sahrul Ramadhan
 <br></br>
 Kelas: C
