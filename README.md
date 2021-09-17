@@ -1,6 +1,6 @@
 # MVC-Native
 
-# Tugas Bahasa Pemrograman 3
+# UTS
 
 NPM: 14197071
 <br></br>
