@@ -1,7 +1,8 @@
 # UTS
 
-NPM: 114197054
+NPM: 14197071
 <br></br>
-Nama: Muhamad Sahal
+Nama: Alwi Sahrul Ramadhan
+Sistem Infoemasi
 <br></br>
 Kelas: C
