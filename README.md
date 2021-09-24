@@ -1,9 +1,7 @@
-# MVC-Native
-
 # UTS
 
-NPM: 14197071
+NPM: 114197054
 <br></br>
-Nama: Alwi Sahrul Ramadhan
+Nama: Muhamad Sahal
 <br></br>
 Kelas: C
